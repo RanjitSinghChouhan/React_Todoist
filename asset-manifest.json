@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https//ranjitsinghchouhan.github.io/react_todoist/static/css/main.bf8d448c.chunk.css",
+    "main.js": "/https//ranjitsinghchouhan.github.io/react_todoist/static/js/main.7a46ddb1.chunk.js",
+    "main.js.map": "/https//ranjitsinghchouhan.github.io/react_todoist/static/js/main.7a46ddb1.chunk.js.map",
+    "runtime-main.js": "/https//ranjitsinghchouhan.github.io/react_todoist/static/js/runtime-main.fdd87333.js",
+    "runtime-main.js.map": "/https//ranjitsinghchouhan.github.io/react_todoist/static/js/runtime-main.fdd87333.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/https//ranjitsinghchouhan.github.io/react_todoist/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.4ceed73b.chunk.js": "/https//ranjitsinghchouhan.github.io/react_todoist/static/js/2.4ceed73b.chunk.js",
+    "static/js/2.4ceed73b.chunk.js.map": "/https//ranjitsinghchouhan.github.io/react_todoist/static/js/2.4ceed73b.chunk.js.map",
+    "index.html": "/https//ranjitsinghchouhan.github.io/react_todoist/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/https//ranjitsinghchouhan.github.io/react_todoist/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.bf8d448c.chunk.css.map": "/https//ranjitsinghchouhan.github.io/react_todoist/static/css/main.bf8d448c.chunk.css.map",
+    "static/js/2.4ceed73b.chunk.js.LICENSE.txt": "/https//ranjitsinghchouhan.github.io/react_todoist/static/js/2.4ceed73b.chunk.js.LICENSE.txt",
+    "static/media/logo.9d52f01a.png": "/https//ranjitsinghchouhan.github.io/react_todoist/static/media/logo.9d52f01a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdd87333.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.4ceed73b.chunk.js",
+    "static/css/main.bf8d448c.chunk.css",
+    "static/js/main.7a46ddb1.chunk.js"
+  ]
+}
